@@ -40,11 +40,16 @@ Follow the steps below to install and run the Time Card Management System:
 Enter your choice: 1
 
 New password:
-Name: MyEmail
+
+Name: yourEmail
+
 Do you want to generate password? (Y/N): n
-Password: mysecretpassword
-Website: example.com
-Login: myusername
+
+Password: yourPassword
+
+Website: google.com
+
+Login: yourUsername
 
 Password added.
 
