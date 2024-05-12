@@ -4,9 +4,13 @@ This is a simple command-line password manager implemented in C++. It allows you
 
 ### Features
 Add: Add a new password entry.
+
 Edit: Modify existing password entries.
+
 Remove: Delete a password entry.
+
 Search: Find passwords based on name, password, website, or login.
+
 Sort: Sort passwords based on specific fields.
 
 ### Installation
